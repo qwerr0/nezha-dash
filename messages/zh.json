@@ -21,7 +21,11 @@
   },
   "TabSwitch": {
     "Detail": "详情",
-    "Network": "网络"
+    "Network": "网络",
+    "NetworkLineChart": "折线",
+    "NetworkBoxplot": "箱形",
+    "NetworkDelaysHotmap": "延迟",
+    "NetworkLossHotmap": "丢包率"
   },
   "SignIn": {
     "SignInMessage": "请输入密码",

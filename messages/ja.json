@@ -21,7 +21,11 @@
   },
   "TabSwitch": {
     "Detail": "詳細",
-    "Network": "ネットワーク"
+    "Network": "ネットワーク",
+    "NetworkLineChart": "折線",
+    "NetworkBoxplot": "箱形",
+    "NetworkDelaysHotmap": "遅延",
+    "NetworkLossHotmap": "損失"
   },
   "SignIn": {
     "SignInMessage": "パスワードを入力してください",
