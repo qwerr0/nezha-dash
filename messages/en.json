@@ -21,7 +21,11 @@
   },
   "TabSwitch": {
     "Detail": "Detail",
-    "Network": "Network"
+    "Network": "Network",
+    "NetworkLineChart": "Line",
+    "NetworkBoxplot": "Boxplot",
+    "NetworkDelaysHotmap": "Delay",
+    "NetworkLossHotmap": "Loss"
   },
   "SignIn": {
     "SignInMessage": "Please enter the password",

@@ -21,7 +21,11 @@
   },
   "TabSwitch": {
     "Detail": "詳細",
-    "Network": "網路"
+    "Network": "網路",
+    "NetworkLineChart": "折線",
+    "NetworkBoxplot": "箱型",
+    "NetworkDelaysHotmap": "延遲",
+    "NetworkLossHotmap": "丟包率"
   },
   "SignIn": {
     "SignInMessage": "請輸入密碼",
